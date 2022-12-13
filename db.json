@@ -1,0 +1,41 @@
+{
+  "productList": [
+    {
+      "productName": "shoes12",
+      "category": "Electronics",
+      "freshness": "Brand New",
+      "price": "56",
+      "comment": "iwqdwsii",
+      "date": "2022-08-05T18:30:00.000Z",
+      "id": 11
+    },
+    {
+      "productName": "pen",
+      "category": "Electronics",
+      "freshness": "Brand New",
+      "price": "12",
+      "comment": "Its a brand new pen..",
+      "date": "2022-08-05T18:30:00.000Z",
+      "id": 12
+    },
+    {
+      "productName": "grape",
+      "category": "Fruits",
+      "freshness": "Brand New",
+      "price": "12",
+      "comment": "its a fruit",
+      "date": "2022-08-19T18:30:00.000Z",
+      "id": 13
+    }
+  ],
+  "comments": [
+    {
+      "id": 1,
+      "body": "some comment",
+      "postId": 1
+    }
+  ],
+  "profile": {
+    "name": "typicode"
+  }
+}

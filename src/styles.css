@@ -1,0 +1,12 @@
+* {
+  margin: 0;
+  padding: 0;
+}
+
+mat-form-field {
+  width: 100%;
+}
+
+.mat-sort-header-content {
+  padding-left: 10px;
+}
